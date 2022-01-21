@@ -1,5 +1,5 @@
 # Deliveries API
-## NOTE:This server has been updated. Check the release here: https://github.com/santiago-jv/deliveries-rest-api
+ **NOTE:This server has been updated. Check the release here: https://github.com/santiago-jv/deliveries-rest-api**
 This is my first REST API created in Spring Boot. During the development of this API I learned to use the spring ORM to handle in a simpler way the relationships of the entities created in the program.
 
 This REST API is consumed by the following application: [Repository](https://github.com/santiago-jv/deliveries-app-with-reactjs) 
